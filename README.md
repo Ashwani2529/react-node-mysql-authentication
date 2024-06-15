@@ -27,7 +27,7 @@ This is a simple authentication app built using React for the front end, Node.js
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/your-username/react-node-mysql-authentication.git
+git clone https://github.com/Ashwani2529/react-node-mysql-authentication.git
 cd react-node-mysql-authentication
 ```
 
